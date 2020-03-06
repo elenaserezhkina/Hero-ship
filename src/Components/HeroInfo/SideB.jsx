@@ -17,7 +17,7 @@ function SideB({ changeCard, hero }) {
                     <li>Meet {hero.name} !</li>
 
                     <li>Mostly works as {hero.work.occupation}. </li>
-                    <li>Deffenetly on the {hero.biography.alignment} side. </li>
+                    <li>Definitely on the {hero.biography.alignment} side. </li>
                     <li> Intelligence : {hero.powerstats.intelligence} </li>
                     <li> Power : {hero.powerstats.power} </li>
                     <li>Eye color : {hero.appearance["eye-color"]}</li>
